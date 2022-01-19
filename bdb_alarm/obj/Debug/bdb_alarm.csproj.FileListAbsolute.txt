@@ -1,0 +1,11 @@
+C:\Users\RND2\Desktop\SourceCode\bdb_alarm\bdb_alarm\bin\Debug\bdb_alarm.exe.config
+C:\Users\RND2\Desktop\SourceCode\bdb_alarm\bdb_alarm\bin\Debug\bdb_alarm.exe
+C:\Users\RND2\Desktop\SourceCode\bdb_alarm\bdb_alarm\bin\Debug\bdb_alarm.pdb
+C:\Users\RND2\Desktop\SourceCode\bdb_alarm\bdb_alarm\obj\Debug\bdb_alarm.csproj.SuggestedBindingRedirects.cache
+C:\Users\RND2\Desktop\SourceCode\bdb_alarm\bdb_alarm\obj\Debug\bdb_alarm.Form__dashboard.resources
+C:\Users\RND2\Desktop\SourceCode\bdb_alarm\bdb_alarm\obj\Debug\bdb_alarm.Form__display.resources
+C:\Users\RND2\Desktop\SourceCode\bdb_alarm\bdb_alarm\obj\Debug\bdb_alarm.Properties.Resources.resources
+C:\Users\RND2\Desktop\SourceCode\bdb_alarm\bdb_alarm\obj\Debug\bdb_alarm.csproj.GenerateResource.cache
+C:\Users\RND2\Desktop\SourceCode\bdb_alarm\bdb_alarm\obj\Debug\bdb_alarm.csproj.CoreCompileInputs.cache
+C:\Users\RND2\Desktop\SourceCode\bdb_alarm\bdb_alarm\obj\Debug\bdb_alarm.exe
+C:\Users\RND2\Desktop\SourceCode\bdb_alarm\bdb_alarm\obj\Debug\bdb_alarm.pdb
